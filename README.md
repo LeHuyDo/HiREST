@@ -397,14 +397,3 @@ Our project borrows code from the following repositories:
 
 We thank for the authors of the repositories for their public release of code.
 
-# Citation
-Please cite our paper if you use our dataset and/or method in your projects.
-
-```bibtex
-@inproceedings{Zala2023HiREST,
-  author    = {Abhay Zala and Jaemin Cho and Satwik Kottur and Xilun Chen and Barlas Oğuz and Yashar Mehdad and Mohit Bansal},
-  title     = {Hierarchical Video-Moment Retrieval and Step-Captioning},
-  booktitle = {CVPR},
-  year      = {2023},
-}
-```
